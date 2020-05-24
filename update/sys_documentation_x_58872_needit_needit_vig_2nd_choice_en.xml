@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="vig_2nd_choice" label="Vig 2nd Choice" language="en" table="x_58872_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>vig_2nd_choice</element>
+            <help/>
+            <hint/>
+            <label>Vig 2nd Choice</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <plural>Vig 2nd Choices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-24 18:40:15</sys_created_on>
+            <sys_id>1a278dec07c150103fa0f19d7c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Vig 2nd Choice</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_vig_2nd_choice_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-24 18:40:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
